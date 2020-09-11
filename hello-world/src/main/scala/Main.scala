@@ -1,3 +1,5 @@
+/*calculate factorial(25) and estimate the calculation time in seconds */
+
 object Main extends App {
   println("Hello, World!\n")
   println("The latest news!\n")
