@@ -1,5 +1,5 @@
 ### First Scala project. 
-##### The programm print "Hello world", make tail recursive calculation of factorial(25) 
+##### The program prints "Hello world", make tail recursive calculation of factorial(25), 
 ##### print the result + the calculation time for the factorial operation. 
 ```
 .
